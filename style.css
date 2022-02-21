@@ -1,0 +1,155 @@
+* {
+
+    margin: 0px;
+
+}
+
+html {
+
+    scroll-behavior: smooth;
+
+}
+
+body {
+
+    background-color: #121212;
+
+}
+
+.navbar {
+
+    padding: 40px;
+
+    text-align: center;
+
+}
+
+.navbar h1 {
+
+    color: #fff;
+
+    font-family: 'Saira', sans-serif;
+
+}
+
+.banner {
+
+    background-image: url('http://cdn.mos.cms.futurecdn.net/Q8xqSEKkZCPE2AWLiv2Gq5.gif');
+    background-position: center;
+    background-size: cover;
+
+    padding: 200px;
+
+    text-align: center;
+
+}
+
+.banner h1 {
+
+    color: #fff;
+
+    font-size: 50px;
+    font-weight: 200;
+    font-family: 'Saira', sans-serif;
+
+}
+
+.category {
+
+    padding: 50px;
+
+    text-align: center;
+
+}
+
+.category h2 {
+
+    color: #fff;
+
+    font-size: 50px;
+    font-family: 'Saira', sans-serif;
+
+}
+
+.answers {
+
+    padding: 50px;
+
+    text-align: center;
+
+}
+
+.answers p {
+
+    color: rgb(173, 173, 173);
+
+    font-size: 20px;
+    font-weight: 200;
+    font-family: 'Saira', sans-serif;
+
+}
+
+.footer-section {
+
+    padding: 50px;
+
+}
+
+.footer {
+
+    padding: 20px;
+
+}
+
+.footer h2 {
+
+    color: #fff;
+
+    font-family: 'Saira', sans-serif;
+    font-size: 30px;
+
+}
+
+.footer ul {
+
+    margin: 0px;
+    
+}
+
+.footer li {
+
+    display: block;
+
+    margin: 5px 20px;
+
+}
+
+.footer a {
+
+    color: #fff;
+
+    text-decoration: none;
+
+    font-weight: 300;
+    font-size: 14px;
+    font-family: 'Saira', sans-serif;
+
+}
+
+.footer a:hover {
+
+    color: rgb(214, 214, 214);
+
+}
+
+.footer h3 {
+
+    color: #fff;
+
+    text-align: right;
+
+    font-weight: 300;
+    font-size: 14px;
+    font-family: 'Saira', sans-serif;
+
+}
